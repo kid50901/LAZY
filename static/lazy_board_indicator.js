@@ -11,7 +11,7 @@ function generateIndicator(endmeetsThisMonth,endmeetsLastMonth,assetsThisMonth,a
     }
     data=[
         {
-            title: { text: 'Endmeets',
+            title: { text: 'Cash Flow',
             font: {
                 //family: 'Courier New, monospace',
                 size: titlesize,

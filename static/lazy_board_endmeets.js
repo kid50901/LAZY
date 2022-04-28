@@ -23,7 +23,7 @@ option = {
         }
     },
     legend: {
-        data: ['income', 'expend', 'End Meets']
+        data: ['income', 'expend', 'cash flow']
     },
     xAxis: [
         {
@@ -60,7 +60,7 @@ option = {
             data: expend_TWD_list
         },
         {
-            name: 'End Meets',
+            name: 'cash flow',
             type: 'line',
             //yAxisIndex: 1,
             data: end_meets_list
