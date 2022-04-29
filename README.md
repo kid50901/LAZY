@@ -1,5 +1,6 @@
 # LAZY
 Record and compute every mounth income and expend
+![](https://raw.githubusercontent.com/kid50901/LAZY/main/board.PNG)
 # Development uncomplete item
 * filter item front end need modify.
 * login system.
